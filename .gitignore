@@ -1,0 +1,7 @@
+#starter files
+/assets
+/node_modules
+/gulpfile.js
+/atom-package-list.txt
+/renamethisfile.txt
+/webpack.config.js
