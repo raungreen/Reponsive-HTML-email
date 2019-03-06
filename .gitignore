@@ -5,3 +5,9 @@
 /atom-package-list.txt
 /renamethisfile.txt
 /webpack.config.js
+/README.md
+
+#public folder
+/public/css
+/public/js
+
